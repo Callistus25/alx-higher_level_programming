@@ -19,15 +19,12 @@
 	- [3-print_number.py](https://github.com/Callistus25/alx-higher_level_programming/blob/master/0x00-python-hello_world/3-print_number.py): Python script that prints the integer stored in the variable number, followed by `Battery street`, followed by a new line.
 Completion of this source [code](https://github.com/holbertonschool/0x00.py/blob/master/3-print_number.py).
 
-4. Print float
+4. Print float [4-print_float.py](https://github.com/Callistus25/alx-higher_level_programming/blob/master/0x00-python-hello_world/4-print_float.py): 
+	- Python script that prints the float stored in the variable number with a precision of two digits.
+	- Completion of this source [code](https://github.com/holbertonschool/0x00.py/blob/master/4-print_float.py).
 
-	- [4-print_float.py](https://github.com/Callistus25/alx-higher_level_programming/blob/master/0x00-python-hello_world/4-print_float.py): Python script that prints the float stored in the variable number with a precision of two digits.
-Completion of this source [code](https://github.com/holbertonschool/0x00.py/blob/master/4-print_float.py).
-
-5. Print string
-
-	- [5-print_string.py](https://github.com/Callistus25/alx-higher_level_programming/blob/master/0x00-python-hello_world/5-print_string.py): Complete this [source code](https://github.com/holbertonschool/0x00.py/blob/master/5-print_string.py) in order to print 3 times a string stored in the variable str, followed by its first 9 characters.
-
+5. Print string [5-print_string.py](https://github.com/Callistus25/alx-higher_level_programming/blob/master/0x00-python-hello_world/5-print_string.py): 
+	- Complete this [source code](https://github.com/holbertonschool/0x00.py/blob/master/5-print_string.py) in order to print 3 times a string stored in the variable str, followed by its first 9 characters.
 	- You can find the source code [here](https://github.com/holbertonschool/0x00.py/blob/master/5-print_string.py)
 	- The output of the program should be:
 		- 3 times the value of `str`
@@ -37,21 +34,17 @@ Completion of this source [code](https://github.com/holbertonschool/0x00.py/blob
 	- You are not allowed to use any loops or conditional statement
 	- Your program should be maximum 5 lines long
 
-6. Play with strings
-
-	- [6-concat.py](https://github.com/Callistus25/alx-higher_level_programming/blob/master/0x00-python-hello_world/6-concat.py): 
+6. Play with strings[6-concat.py](https://github.com/Callistus25/alx-higher_level_programming/blob/master/0x00-python-hello_world/6-concat.py): 
 
 	- Complete this [source code](https://github.com/holbertonschool/0x00.py/blob/master/6-concat.py) to print `Welcome to Holberton School!`
-
 	- You can find the source code [here](https://github.com/holbertonschool/0x00.py/blob/master/6-concat.py)
 	- You are not allowed to use any loops or conditional statements.
 	- You have to use the variables `str1` and `str2` in your new line of code
 	- Your program should be exactly 5 lines long
 
-7. Copy - Cut - Paste
+7. Copy - Cut - Paste [7-edges.py](https://github.com/Callistus25/alx-higher_level_programming/blob/master/0x00-python-hello_world/7-edges.py): 
 
-	- [7-edges.py]: Complete this [source code](https://github.com/holbertonschool/0x00.py/blob/master/7-edges.py)
-
+	- Complete this [source code](https://github.com/holbertonschool/0x00.py/blob/master/7-edges.py)
 	- You can find the source code [here](https://github.com/holbertonschool/0x00.py/blob/master/7-edges.py)
 	- You are not allowed to use any loops or conditional statements
 	- Your program should be exactly 8 lines long
@@ -61,25 +54,51 @@ Completion of this source [code](https://github.com/holbertonschool/0x00.py/blob
 
 8. Create a new sentence
 
-8-concat_edges.py: Python script that prints object-oriented programming with Python, followed by a new line without creating new variables or string literals.
-Completion of this source code.
-9. Easter Egg
+	- [8-concat_edges.py](https://github.com/Callistus25/alx-higher_level_programming/blob/master/0x00-python-hello_world/8-concat_edges.py): 
+	- Complete this [source code](https://github.com/holbertonschool/0x00.py/blob/master/8-concat_edges.py) to print `object-oriented programming with Python`, followed by a new line.
 
-9-easter_egg.py: Python script that prints "The Zen of Python" by Tim Peters, followed by a new line.
-10. Linked list cycle
+	- You can find the source code [here](https://github.com/holbertonschool/0x00.py/blob/master/8-concat_edges.py)
+	- You are not allowed to use any loops or conditional statements
+	- Your program should be exactly 5 lines long
+	- You are not allowed to create new variables
+	- You are not allowed to use string literals
 
-10-check_cycle.c: C function that checks if a linked list contains a cycle.
-Returns 0 if there is no cycle and 1 if there is.
-Helper files:
-linked_lists.c: C functions handling linked lists for testing 10-check_cycle.c (provided by Holberton School).
-lists.h: Header file containing definitions and prototypes for all types and functions used in linked_lists.c and 10-check_cycle.c.
+9. Easter Egg [9-easter_egg.py](https://github.com/Callistus25/alx-higher_level_programming/blob/master/0x00-python-hello_world/9-easter_egg.py): 
+
+Write a Python script that prints `“The Zen of Python”`, by TimPeters, followed by a new line.
+
+	- Your script should be maximum 98 characters long (please check with `wc -m 9-easter_egg.py`)
+
+10. Linked list cycle [10-check_cycle.c](https://github.com/Callistus25/alx-higher_level_programming/blob/master/0x00-python-hello_world/10-check_cycle.c): 
+# Technical interview preparation:
+
+	- You are not allowed to google anything
+	- Whiteboard first
+	- This task and all future technical interview prep tasks will include checks for the efficiency of your solution, i.e. is your solution’s runtime fast enough, does your solution require extra memory usage / mallocs, etc.
+
+Write a function in C that checks if a singly linked list has a cycle in it.
+
+	- Prototype: `int check_cycle(listint_t *list)`;
+	- Return: `0` if there is no cycle, `1` if there is a cycle
+
+## Requirements:
+
+	- Only these functions are allowed: `write`, `printf`, `putchar`, `puts`, `malloc`, `free`
+
+	- [lists.h](https://github.com/Callistus25/alx-higher_level_programming/blob/master/0x00-python-hello_world/list.h): Header file containing definitions and prototypes for all types and functions used in `linked_lists.c` and `10-check_cycle.c`.
+
 11. Hello, write
 
-100-write.py: Python script that prints exactly and that piece of art is useful - Dora Korpar, 2015-10-19, followed by a new line to stderr using the function write from the sys module.
-Exits with a status code of 1.
+	- [100-write.py](https://github.com/Callistus25/alx-higher_level_programming/blob/master/0x00-python-hello_world/100-write.py): Write a Python script that prints exactly `and that piece of art is useful - Dora Korpar, 2015-10-19`, followed by a new line.
+
+	- Use the function `write` from the `sys` module
+	- You are not allowed to use `print`
+	- Your script should print to `stderr`
+	- Your script should exit with the status code `1`
+
 12. Compile
 
-101-compile: Python script that compiles a Python script file stored in the environment variable $PYFILE and saves it to an output file $PYFILEc (ex. export PYFILE=my_main.py => output filename: my_main.pyc).
+	- [101-compile]: Python script that compiles a Python script file stored in the environment variable $PYFILE and saves it to an output file $PYFILEc (ex. export PYFILE=my_main.py => output filename: my_main.pyc).
 13. ByteCode -> Python #1
 
 102-magic_calculation.py: Python function matching exactly a bytecode provided by Holberton School.
