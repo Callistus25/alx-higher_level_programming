@@ -26,19 +26,39 @@ Completion of this source [code](https://github.com/holbertonschool/0x00.py/blob
 
 5. Print string
 
-5-print_string.py: Python script that prints a string stored in the variable str three times, then a new line, then the first nine characters contained in str, followed by another new line.
-Completion of this source code.
+	- [5-print_string.py](https://github.com/Callistus25/alx-higher_level_programming/blob/master/0x00-python-hello_world/5-print_string.py): Complete this [source code](https://github.com/holbertonschool/0x00.py/blob/master/5-print_string.py) in order to print 3 times a string stored in the variable str, followed by its first 9 characters.
+
+	- You can find the source code [here](https://github.com/holbertonschool/0x00.py/blob/master/5-print_string.py)
+	- The output of the program should be:
+		- 3 times the value of `str`
+		- followed by a new line
+		- followed by the 9 first characters of `str`
+		- followed by a new line
+	- You are not allowed to use any loops or conditional statement
+	- Your program should be maximum 5 lines long
+
 6. Play with strings
 
-6-concat.py: Python script that prints Welcome to Holberton School! using the variables str1 = "Holberton" and str2 = "School".
-Completion of this source code.
+	- [6-concat.py](https://github.com/Callistus25/alx-higher_level_programming/blob/master/0x00-python-hello_world/6-concat.py): 
+
+	- Complete this [source code](https://github.com/holbertonschool/0x00.py/blob/master/6-concat.py) to print `Welcome to Holberton School!`
+
+	- You can find the source code [here](https://github.com/holbertonschool/0x00.py/blob/master/6-concat.py)
+	- You are not allowed to use any loops or conditional statements.
+	- You have to use the variables `str1` and `str2` in your new line of code
+	- Your program should be exactly 5 lines long
+
 7. Copy - Cut - Paste
 
-7-edges.py: Python script that sets three string variables based on the string contained in the variable word as follows:
-word_first_3: Contains the first three letters of the variable word.
-word_last_2: Contains the last two letters of the variable word.
-middle_word: Contains the value of the variable word without the first and last letters.
-Completion of this source code.
+	- [7-edges.py]: Complete this [source code](https://github.com/holbertonschool/0x00.py/blob/master/7-edges.py)
+
+	- You can find the source code [here](https://github.com/holbertonschool/0x00.py/blob/master/7-edges.py)
+	- You are not allowed to use any loops or conditional statements
+	- Your program should be exactly 8 lines long
+	- `word_first_3` should contain the first 3 letters of the variable `word`
+	- `word_last_2` should contain the last 2 letters of the variable `word`
+	- `middle_word` should contain the value of the variable `word` without the first and last letters.
+
 8. Create a new sentence
 
 8-concat_edges.py: Python script that prints object-oriented programming with Python, followed by a new line without creating new variables or string literals.
