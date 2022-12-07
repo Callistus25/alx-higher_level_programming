@@ -4,22 +4,34 @@
 
 0. Positive anything is better than negative nothing
 
-0-positive_or_negative.py: Python program that assigns a random signed number to the variable number each time it is executed and prints whether number is positive or negative.
-Prints the number followed by:
-If the number is greater than 0: is positive
-If the number is 0: is zero
-If the number is less than 0: is negative
-Followed by a new line.
-Completion of this source code.
+	- [0-positive_or_negative.py](https://github.com/Callistus25/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/0-positive_or_negative.py): This program will assign a random signed number to the variable `number` each time it is executed. Complete the source code in order to print whether the number stored in the variable `number` is positive or negative.
+
+	- You can find the source code [here](https://alx-intranet.hbtn.io/rltoken/rkvoXPA-lS3TAaemM9sChg)
+	- The variable `number` will store a different value every time you will run this program
+	- You don’t have to understand what `import`, `random. randint` do. Please do not touch this code
+	- The output of the program should be:
+		- The number, followed by
+			- if the number is greater than 0: `is positive`
+			- if the number is 0: `is zero`
+			- if the number is less than 0: `is negative`
+		- followed by a new line
+
 1. The last digit
 
-1-last_digit.py: Python program that assigns a random signed number to the variable number each time it is executed and prints its last digit.
-Prints the string Last digit of [number] is [last_digit] followed by:
-If the number is greater than 5: and is greater than 5
-If the number is 0: and is 0
-If the number is less than 6 and not 0: and is less than 6 and not 0
-Followed by a new line.
-Completion of this source code.
+	- [1-last_digit.py](https://github.com/Callistus25/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/1-last_digit.py): This program will assign a random signed number to the variable number each time it is executed. Complete the source code in order to print the last digit of the number stored in the variable number.
+
+	- You can find the source code [here](https://alx-intranet.hbtn.io/rltoken/hU682hcMxVchqWAcmh32tA)
+	- The variable `number` will store a different value every time you will run this program
+	- You don’t have to understand what `import`, `random.randint` do. Please do not touch this code. This line should not change: `number = random.randint(-10000, 10000)`
+	- The output of the program should be:
+		- The string `Last digit of`, followed by
+		- the number, followed by
+		- the string `is`, followed by the last digit of `number`, followed by
+			- if the last digit is greater than 5: the string `and is greater than 5`
+			- if the last digit is 0: the string `and is 0`
+			- if the last digit is less than 6 and not 0: the string `and is less than 6 and not 0`
+		- followed by a new line
+
 2. I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game
 
 2-print_alphabet.py: Python program that prints the alphabet in lowercase, not followed by a new line.
