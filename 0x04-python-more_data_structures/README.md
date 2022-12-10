@@ -15,13 +15,12 @@
 
 1. Search and replace
 
-Write a function that replaces all occurrences of an element by another in a new list.
-
-Prototype: def search_replace(my_list, search, replace):
-my_list is the initial list
-search is the element to replace in the list
-replace is the new element
-You are not allowed to import any module
+	- [0-square_matrix_simple.py](https://github.com/Callistus25/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/1-search_replace.py)Write a function that replaces all occurrences of an element by another in a new list.
+	- Prototype: `def search_replace(my_list, search, replace):`
+	- `my_list' is the initial list
+	- search is the element to replace in the list
+	- replace is the new element
+	- You are not allowed to import any module
 
 2. Unique addition
 Write a function that adds all unique integers in a list (only once for each integer).
