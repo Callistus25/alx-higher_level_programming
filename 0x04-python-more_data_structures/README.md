@@ -3,16 +3,15 @@
 ## Tasks
 
 0. Squared simple
-Write a function that computes the square value of all integers of a matrix.
-
-Prototype: def square_matrix_simple(matrix=[]):
-matrix is a 2 dimensional array
-Returns a new matrix:
-Same size as matrix
-Each value should be the square of the value of the input
-Initial matrix should not be modified
-You are not allowed to import any module
-You are allowed to use regular loops, map, etc.
+	- [0-square_matrix_simple.py](https://github.com/Callistus25/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/0-square_matrix_simple.py): Write a function that computes the square value of all integers of a matrix.
+	- Prototype: `def square_matrix_simple(matrix=[]):`
+	- matrix is a 2 dimensional array
+	- Returns a new matrix:
+	- Same size as matrix
+	- Each value should be the square of the value of the input
+	- Initial matrix should not be modified
+	- You are not allowed to import any module
+	- You are allowed to use regular loops, map, etc.
 
 1. Search and replace
 
