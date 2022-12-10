@@ -15,7 +15,7 @@
 
 1. Search and replace
 
-	- [0-square_matrix_simple.py](https://github.com/Callistus25/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/1-search_replace.py)Write a function that replaces all occurrences of an element by another in a new list.
+	- [0-square_matrix_simple.py](https://github.com/Callistus25/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/1-search_replace.py): Write a function that replaces all occurrences of an element by another in a new list.
 	- Prototype: `def search_replace(my_list, search, replace):`
 	- `my_list' is the initial list
 	- search is the element to replace in the list
@@ -23,21 +23,19 @@
 	- You are not allowed to import any module
 
 2. Unique addition
-	- [2-uniq_add.py](https://github.com/Callistus25/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/2-uniq_add.py)Write a function that adds all unique integers in a list (only once for each integer).
+	- [2-uniq_add.py](https://github.com/Callistus25/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/2-uniq_add.py): Write a function that adds all unique integers in a list (only once for each integer).
 	- Prototype: `def uniq_add(my_list=[]):`
 	- You are not allowed to import any module
 
 3. Present in both
-	- [3-common_elements.py](https://github.com/Callistus25/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/3-common_elements.py)Write a function that returns a set of common elements in two sets.
+	- [3-common_elements.py](https://github.com/Callistus25/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/3-common_elements.py): Write a function that returns a set of common elements in two sets.
 	- Prototype: def common_elements(set_1, set_2):
 	- You are not allowed to import any module
 
 4. Only differents
-
-Write a function that returns a set of all elements present in only one set.
-
-Prototype: def only_diff_elements(set_1, set_2):
-You are not allowed to import any module
+	- [4-only_diff_elements.py](https://github.com/Callistus25/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/4-only_diff_elements.py): Write a function that returns a set of all elements present in only one set.
+	- Prototype: `def only_diff_elements(set_1, set_2):`
+	- You are not allowed to import any module
 
 5. Number of keys
 
