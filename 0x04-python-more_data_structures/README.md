@@ -23,17 +23,14 @@
 	- You are not allowed to import any module
 
 2. Unique addition
-Write a function that adds all unique integers in a list (only once for each integer).
-
-Prototype: def uniq_add(my_list=[]):
-You are not allowed to import any module
+	- [2-uniq_add.py](https://github.com/Callistus25/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/2-uniq_add.py)Write a function that adds all unique integers in a list (only once for each integer).
+	- Prototype: `def uniq_add(my_list=[]):`
+	- You are not allowed to import any module
 
 3. Present in both
-
-Write a function that returns a set of common elements in two sets.
-
-Prototype: def common_elements(set_1, set_2):
-You are not allowed to import any module
+	- [3-common_elements.py](https://github.com/Callistus25/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/3-common_elements.py)Write a function that returns a set of common elements in two sets.
+	- Prototype: def common_elements(set_1, set_2):
+	- You are not allowed to import any module
 
 4. Only differents
 
