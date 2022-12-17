@@ -43,19 +43,20 @@
 	- [3-print_alphabt.py](https://github.com/Callistus25/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/3-print_alphabt.py): Python program that prints the alphabet in lowercase, followed by a new line.
 	- Using only one print and one loop.
 	- Without storing characters in variables or importing modules.
-	- Prints every letter except for q and e.
+	- Prints every letter except for `q` and `e`.
 
 4. Hexadecimal printing
 
-4-print_hexa.py: Python program that prints all numbers from 0 to 98 in decimal and hexadecimal.
-Using only one print and one loop.
-Without storing numbers or strings in variables or importing modules.
-Printing format: [decimal] = [hexadecimal]
+	- [4-print_hexa.py](https://github.com/Callistus25/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/4-print_hexa.py): Python program that prints all numbers from `0` to `98` in decimal and hexadecimal.
+	- Using only one print and one loop.
+	- Without storing numbers or strings in variables or importing modules.
+	- Printing format: `[decimal] = [hexadecimal]`
+
 5. 00...99
 
-5-print_comb2.py: Python program that prints numbers from 0 to 99 two digits each.
-Numbers are separated by , , except for the last number, which is followed by a new line.
-Using no more than two print functions and one loop.
+	- [5-print_comb2.py](https://github.com/Callistus25/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/5-print_comb2.py): Python program that prints numbers from 0 to 99 two digits each.
+	- Numbers are separated by , , except for the last number, which is followed by a new line.
+	- Using no more than two print functions and one loop.
 Without storing numbers or strings in variables or importing modules.
 6. Inventing is a combination of brains and materials. The more brains you use, the less material you need
 
