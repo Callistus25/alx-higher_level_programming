@@ -57,13 +57,14 @@
 	- [5-print_comb2.py](https://github.com/Callistus25/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/5-print_comb2.py): Python program that prints numbers from 0 to 99 two digits each.
 	- Numbers are separated by , , except for the last number, which is followed by a new line.
 	- Using no more than two print functions and one loop.
-Without storing numbers or strings in variables or importing modules.
+	- Without storing numbers or strings in variables or importing modules.
+
 6. Inventing is a combination of brains and materials. The more brains you use, the less material you need
 
-6-print_comb3.py: Python program that prints all possible different combinations of two digits in ascending order.
-Numbers are separated by , , except for the last number, which is followed by a new line.
-The two digits must be different - 01 and 10 are considered identical.
-Using no more than three print functions and two loops.
+	- [6-print_comb3.py](https://github.com/Callistus25/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/6-print_comb3.py): Python program that prints all possible different combinations of two digits in ascending order.
+	- Numbers are separated by , , except for the last number, which is followed by a new line.
+	- The two digits must be different - 01 and 10 are considered identical.
+	-Using no more than three print functions and two loops.
 Without storing numbers or strings in variables or importing modules.
 7. islower
 
