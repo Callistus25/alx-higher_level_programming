@@ -64,13 +64,15 @@
 	- [6-print_comb3.py](https://github.com/Callistus25/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/6-print_comb3.py): Python program that prints all possible different combinations of two digits in ascending order.
 	- Numbers are separated by , , except for the last number, which is followed by a new line.
 	- The two digits must be different - 01 and 10 are considered identical.
-	-Using no more than three print functions and two loops.
-Without storing numbers or strings in variables or importing modules.
+	- Using no more than three print functions and two loops.
+	- Without storing numbers or strings in variables or importing modules.
+
 7. islower
 
-7-islower.py: Python function that checks for lowercase characters.
-Returns True if c is lowercase, False otherwise.
-Without importing modules or using str.upper() or str.isupper().
+	- [7-islower.py](https://github.com/Callistus25/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/7-islower.py): Python function that checks for lowercase characters.
+	- Returns `True` if `c` is lowercase, False otherwise.
+	- Without importing modules or using `str.upper()` or `str.isupper()`.
+
 8. To uppercase
 
 8-uppercase.py: Python function that prints a string in uppercase followed by a new line.
