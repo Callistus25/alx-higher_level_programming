@@ -87,8 +87,9 @@
 
 10. a + b
 
-10-add.py: Python function that returns the addition of two integers.
-Without importing modules.
+	- [10-add.py](https://github.com/Callistus25/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/10-add.py): Python function that returns the addition of two integers.
+	- Without importing modules.
+
 11. a ^ b
 
 11-pow.py: Python function that returns a to the power of b.
