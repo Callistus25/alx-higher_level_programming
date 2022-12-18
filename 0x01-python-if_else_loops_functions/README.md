@@ -75,14 +75,16 @@
 
 8. To uppercase
 
-8-uppercase.py: Python function that prints a string in uppercase followed by a new line.
-Using no more than two print functions and one loop.
-Without importing modules or using str.upper() or str.isupper().
+	- [8-uppercase.py](https://github.com/Callistus25/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/8-uppercase.py): Python function that prints a string in uppercase followed by a new line.
+	- Using no more than two print functions and one loop.
+	- Without importing modules or using `str.upper()` or `str.isupper()`.
+
 9. There are only 3 colors, 10 digits, and 7 notes; its what we do with them that's important
 
-9-print_last_digit.py: Python function that prints the last digit of a number.
-Returns the value of the last digit.
-Without importing modules.
+	- [9-print_last_digit.py](https://github.com/Callistus25/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/9-print_last_digit.py): Python function that prints the last digit of a number.
+	- Returns the value of the last digit.
+	- Without importing modules.
+
 10. a + b
 
 10-add.py: Python function that returns the addition of two integers.
