@@ -97,11 +97,12 @@
 
 12. Fizz Buzz
 
-12-fizzbuzz.py: Python function that prints the numbers from 1 to 100 followed by a space.
-For multiples of three, Fizz is printed instead of the number.
-For multiples of five, Buzz is printed instead of the number.
-For multiples of three and five, FizzBuzz is printed instead of the number.
-Without importing modules.
+	- [12-fizzbuzz.py](https://github.com/Callistus25/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/12-fizzbuzz.py): Python function that prints the numbers from 1 to 100 followed by a space.
+	- For multiples of three, `Fizz` is printed instead of the number.
+	- For multiples of five, `Buzz` is printed instead of the number.
+	- For multiples of three and five, `FizzBuzz` is printed instead of the number.
+	- Without importing modules.
+
 13. Insert in sorted linked list
 
 13-insert_number.c: C function that inserts a number into a sorted linked list.
