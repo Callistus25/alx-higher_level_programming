@@ -92,8 +92,9 @@
 
 11. a ^ b
 
-11-pow.py: Python function that returns a to the power of b.
-Without importing modules.
+	- [11-pow.py](https://github.com/Callistus25/alx-higher_level_programming/blob/master/0x01-python-if_else_loops_functions/11-pow.py): Python function that returns a to the power of b.
+	- Without importing modules.
+
 12. Fizz Buzz
 
 12-fizzbuzz.py: Python function that prints the numbers from 1 to 100 followed by a space.
