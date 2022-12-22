@@ -15,15 +15,17 @@
 
 2. How to make a script dynamic!
 
-2-args.py: Python program that prints the number of and list of its arguments.
-Output: [Number of arguments] argument (if number is one) or arguments (otherwise), followed by:
-: (or . if no argumets were passed), followed by
-A new line, followed by
-One argument per line - the position of the argument (starting at 1) followed by : followed by the argument value and another new line.
+	- [2-args.py](https://github.com/Callistus25/alx-higher_level_programming/blob/master/0x02-python-import_modules/2-args.py): Python program that prints the number of and list of its arguments.
+	- Output: [Number of arguments] argument (if number is one) or arguments (otherwise), followed by:
+		: (or . if no argumets were passed), followed by
+		- A new line, followed by
+		- One argument per line - the position of the argument (starting at 1) followed by : followed by the argument value and another new line.
+
 3. Infinite addition
 
-3-infinite_add.py: Python program that prints the result of the addition of all arguments.
-Output: Sum of the arguments followed by a new line.
+	- [3-infinite_add.py](https://github.com/Callistus25/alx-higher_level_programming/blob/master/0x02-python-import_modules/3-infinite_add.py): Python program that prints the result of the addition of all arguments.
+	- Output: Sum of the arguments followed by a new line.
+
 4. Who are you?
 
 4-hidden_discovery.py: Python program that prints all the names defined by the compiled module hidden_4.pyc.
