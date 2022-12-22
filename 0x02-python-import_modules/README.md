@@ -11,7 +11,7 @@
 1. My first toolbox!
 
 	- [1-calculation.py](https://github.com/Callistus25/alx-higher_level_programming/blob/master/0x02-python-import_modules/1-calculation.py): Python program that imports functions from the file calculator_1.py and prints the result of the addition, subtraction, multiplication and division of 10 and 5.
-	- Output: <a value> <operator> <b value> = <operation(a, b) value> followed by a new line.
+	- Output: `<a value> <operator> <b value> = <operation(a, b) value>` followed by a new line.
 
 2. How to make a script dynamic!
 
@@ -28,9 +28,10 @@
 
 4. Who are you?
 
-4-hidden_discovery.py: Python program that prints all the names defined by the compiled module hidden_4.pyc.
-Output: One name per line in alphabetical order.
-Names starting with __ are not printed.
+	- [4-hidden_discovery.py](https://github.com/Callistus25/alx-higher_level_programming/blob/master/0x02-python-import_modules/4-hidden_discovery.py): Python program that prints all the names defined by the compiled module `hidden_4.pyc`.
+	- Output: One name per line in alphabetical order.
+	- Names starting with __ are not printed.
+
 5. Everything can be imported
 
 5-variable_load.py: Python program that imorts the variable a from the file variable_load_5.py and prints its value.
