@@ -34,10 +34,11 @@
 
 5. Everything can be imported
 
-5-variable_load.py: Python program that imorts the variable a from the file variable_load_5.py and prints its value.
+	- [5-variable_load.py](https://github.com/Callistus25/alx-higher_level_programming/blob/master/0x02-python-import_modules/5-variable_load.py): Python program that imorts the variable a from the file variable_load_5.py and prints its value.
+
 6. Build my own calculator!
 
-100-my_calculator.py: Python program that imports all functions from the file calculator_1.py and handles basic operations.
+	- [100-my_calculator.py](https://github.com/Callistus25/alx-higher_level_programming/blob/master/0x02-python-import_modules/100-my_calculator.py): Python program that imports all functions from the file calculator_1.py and handles basic operations.
 Usage: ./100-my_calculator.py <a> <operator> <b> followed by a new line.
 Output: <a> <operator> <b> = <result> followed by a new line.
 The parameter operator can be:
