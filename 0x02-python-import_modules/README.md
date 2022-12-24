@@ -57,7 +57,8 @@ Without using `print`, `eval`, `open`, or `sys`.
 8. ByteCode -> Python #3
 
 	- [102-magic_calculation.py](https://github.com/Callistus25/alx-higher_level_programming/blob/master/0x02-python-import_modules/102-magic_calculation.py): Python function matching exactly a bytecode provided by Holberton School.
+
 9. Fast alphabet
 
-103-fast_alphabet.py: Python program that prints the alphabet in uppercase, followed by a new line.
+	-[103-fast_alphabet.py](https://github.com/Callistus25/alx-higher_level_programming/blob/master/0x02-python-import_modules/103-fast_alphabet.py): Python program that prints the alphabet in uppercase, followed by a new line.
 Without using loops, conditoinals, str.join(), string literals, or system calls.
