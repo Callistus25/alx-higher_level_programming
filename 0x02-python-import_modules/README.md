@@ -39,22 +39,24 @@
 6. Build my own calculator!
 
 	- [100-my_calculator.py](https://github.com/Callistus25/alx-higher_level_programming/blob/master/0x02-python-import_modules/100-my_calculator.py): Python program that imports all functions from the file calculator_1.py and handles basic operations.
-Usage: ./100-my_calculator.py <a> <operator> <b> followed by a new line.
-Output: <a> <operator> <b> = <result> followed by a new line.
-The parameter operator can be:
-+ for addition
-- for subtraction
-* for multiplication
-/ for division
-If the operator is none of the above, the function prints Unknown operator. Available operators: +, -, *, and / followed by a new line and exits with a status value of 1.
-If the number of arguments is not three, the program prints Usage: ./100-my_calculator.py <a> <operator> <b> followed by a new line and exits with a status value of 1.
+	- Usage: ./100-my_calculator.py <a> <operator> <b> followed by a new line.
+	- Output: `<a> <operator> <b> = <result>` followed by a new line.
+	- The parameter operator can be:
+		- + for addition
+		- - for subtraction
+		- * for multiplication
+		- / for division
+	- If the operator is none of the above, the function prints Unknown operator. Available operators: +, -, *, and / followed by a new line and exits with a status value of 1.
+	- If the number of arguments is not three, the program prints Usage: ./100-my_calculator.py <a> <operator> <b> followed by a new line and exits with a status value of 1.
+
 7. Easy print
 
-101-easy_print.py: Python program that prints #pythoniscool followed by a new line in the standard output.
-Without using print, eval, open, or sys.
+	- [101-easy_print.py](https://github.com/Callistus25/alx-higher_level_programming/blob/master/0x02-python-import_modules/101-easy_print.py): Python program that prints `#pythoniscool` followed by a new line in the standard output.
+Without using `print`, `eval`, `open`, or `sys`.
+
 8. ByteCode -> Python #3
 
-102-magic_calculation.py: Python function matching exactly a bytecode provided by Holberton School.
+	- [102-magic_calculation.py](https://github.com/Callistus25/alx-higher_level_programming/blob/master/0x02-python-import_modules/102-magic_calculation.py): Python function matching exactly a bytecode provided by Holberton School.
 9. Fast alphabet
 
 103-fast_alphabet.py: Python program that prints the alphabet in uppercase, followed by a new line.
