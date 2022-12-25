@@ -38,16 +38,24 @@
 
 6. Build my own calculator!
 
-	- [100-my_calculator.py](https://github.com/Callistus25/alx-higher_level_programming/blob/master/0x02-python-import_modules/100-my_calculator.py): Python program that imports all functions from the file calculator_1.py and handles basic operations.
-	- Usage: ./100-my_calculator.py` ` <a> <operator> <b> ` followed by a new line.
-	- Output: `<a> <operator> <b> = <result>` followed by a new line.
-	- The parameter operator can be:
+	- [100-my_calculator.py](https://github.com/Callistus25/alx-higher_level_programming/blob/master/0x02-python-import_modules/100-my_calculator.py):  Write a program that imports all functions from the file `calculator_1.py` and handles basic operations.
+
+	- Usage: `./100-my_calculator.py a operator b`
+	- If the number of arguments is not 3, your program has to:
+		- Print Usage: ./100-my_calculator.py <a> <operator> <b> followed with a new line
+		- exit with the value 1
+	- `operator` can be:
 		- + for addition
 		- - for subtraction
 		- * for multiplication
 		- / for division
-	- If the operator is none of the above, the function prints Unknown operator. Available operators: +, -, *, and / followed by a new line and exits with a status value of `1`.
-	- If the number of arguments is not three, the program prints Usage: `./100-my_calculator.py <a> <operator> <b>` followed by a new line and exits with a status value of 1.
+	- If the operator is not one of the above:
+		- print `Unknown operator. Available operators: +, -, * and /` followed with a new line
+		- exit with the value `1`
+	- You can cast `a` and `b` into integers by using `int()` (you can assume that all arguments will be castable into integers)
+	- The result should be printed like this: `<a> <operator> <b> = <result>`, followed by a new line
+	- You are not allowed to use * for importing or `__import__`
+	- Your code should not be executed when imported
 
 7. Easy print
 
@@ -60,5 +68,12 @@ Without using `print`, `eval`, `open`, or `sys`.
 
 9. Fast alphabet
 
-	-[103-fast_alphabet.py](https://github.com/Callistus25/alx-higher_level_programming/blob/master/0x02-python-import_modules/103-fast_alphabet.py): Python program that prints the alphabet in uppercase, followed by a new line.
-Without using loops, conditoinals, str.join(), string literals, or system calls.
+	-[103-fast_alphabet.py](https://github.com/Callistus25/alx-higher_level_programming/blob/master/0x02-python-import_modules/103-fast_alphabet.py): Write a program that prints the alphabet in uppercase, followed by a new line.
+
+	- Your program should be maximum 3 lines long
+	- You are not allowed to use:
+	- any loops
+	- any conditional statements
+	- `str.join()`
+	- any string literal
+	- any system calls
