@@ -37,15 +37,18 @@ If idx is negative or out of range (greater than the number of elements in my_li
 
 	- [4-new_in_list.py](https://github.com/Callistus25/alx-higher_level_programming/blob/master/0x03-python-data_structures/4-new_in_list.py): Python function that replaces an element of a list at a specific position without modifying the original list.
 	- If `idx `is negative or out of range (greater than the number of elements in my_list), the function returns the original list.
-Without importing modules or using try/except.
+	- Without importing modules or using try/except.
+
 5. Can you C me now?
 
-5-no_c.py: Python function that removes all characters c and C from a string and returns the string.
-Without importing modules or using str.replace().
+	- [5-no_c.py](https://github.com/Callistus25/alx-higher_level_programming/blob/master/0x03-python-data_structures/5-no_c.py): Python function that removes all characters c and C from a string and returns the string.
+	- Without importing modules or using str.replace().
+
 6. Lists of lists = Matrix
 
-6-print_matrix_integer.py: Python function that prints a matrix of integers, one row per line.
-Without casting integers into strings.
+	- [6-print_matrix_integer.py](https://github.com/Callistus25/alx-higher_level_programming/blob/master/0x03-python-data_structures/6-print_matrix_integer.py): Python function that prints a matrix of integers, one row per line.
+	- Without casting integers into strings.
+
 7. Tuples addition
 
 7-add_tuple.py: Python function that adds two tuples.
