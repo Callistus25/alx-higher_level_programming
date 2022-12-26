@@ -15,7 +15,7 @@
 
 1. Secure access to an element in a list
 
-1-element_at.py: Write a function that retrieves an element from a list like in C.
+	- [1-element_at.py](https://github.com/Callistus25/alx-higher_level_programming/blob/master/0x03-python-data_structures/1-element_at.py): Write a function that retrieves an element from a list like in C.
 	- Prototype: `def element_at(my_list, idx):`
 	- If `idx` is negative, the function should return `None`
 	- If `idx` is out of range (> of number of element in `my_list`), the function should return `None`
@@ -24,9 +24,10 @@
 
 2. Replace element
 
-2-replace_in_list.py: Python function that replaces an element of a list at a specific position.
+	- [2-replace_in_list.py](https://github.com/Callistus25/alx-higher_level_programming/blob/master/0x03-python-data_structures/2-replace_in_list.py): Python function that replaces an element of a list at a specific position.
 If idx is negative or out of range (greater than the number of elements in my_list), the function returns the original list.
-Without importing modules or using try/except.
+	- Without importing modules or using try/except.
+
 3. Print a list of integers... in reverse!
 
 3-print_reversed_list_integer.py: Python function that prints all integers of a list, one per line, in reverse order.
