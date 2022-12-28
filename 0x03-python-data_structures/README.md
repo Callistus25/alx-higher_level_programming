@@ -61,14 +61,16 @@ If idx is negative or out of range (greater than the number of elements in my_li
 
 8. More returns!
 
-8-multiple_returns.py: Python function that returns a tuple with the length of a string and its first character.
-If the string is empty, the first character should equal None.
-Without importing modules.
+	- [8-multiple_returns.py](https://github.com/Callistus25/alx-higher_level_programming/blob/master/0x03-python-data_structures/8-multiple_returns.py): Python function that returns a tuple with the length of a string and its first character.
+	- If the string is empty, the first character should equal `None`.
+	- Without importing modules.
+
 9. Find the max
 
-9-max_integer.py: Python function that finds the biggest integer of a list.
-If the list is empty, the function returns None.
-Without importing modules or using the builtin max().
+	- [9-max_integer.py](https://github.com/Callistus25/alx-higher_level_programming/blob/master/0x03-python-data_structures/9-max_integer.py): Python function that finds the biggest integer of a list.
+	- If the list is empty, the function returns None.
+	- Without importing modules or using the builtin max().
+
 10. Only by 2
 
 10-divisible_by_2.py: Python function that finds all multiples of 2 in a list. * Returns a new list of the same size. Each element of the new list contains either True or False corresponding to whether the integer at the same position in the original list is a multiple of 2.
