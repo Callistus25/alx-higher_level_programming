@@ -95,8 +95,10 @@ Completion of this source code.
 	- If the function is not a palindrome - returns 0.
 	- If the function is a palindrome - returns 1.
 	- An empty list is considered a palindrome.
+
 Helper files:
-linked_lists.c: C functions handling linked lists for testing 13-is_palindrome.c (provided by Holberton School).
+
+	- [linked_lists.c]: C functions handling linked lists for testing 13-is_palindrome.c (provided by Holberton School).
 lists.h: Header file containing definitions and prototypes for all types and functions used in linked_lists.c and 13-insert_number.c.
 14. CPython #0: Python lists
 
