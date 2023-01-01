@@ -39,10 +39,9 @@
 
 5. Number of keys
 
-Write a function that returns the number of keys in a dictionary.
-
-Prototype: def number_keys(a_dictionary):
-You are not allowed to import any module
+	-[5-number_keys.py](https://github.com/Callistus25/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/5-number_keys.py) Write a function that returns the number of keys in a dictionary.
+	- Prototype: def number_keys(a_dictionary):
+	- You are not allowed to import any module
 
 6. Print sorted dictionary
 
