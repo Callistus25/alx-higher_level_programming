@@ -65,12 +65,12 @@
 	- You are not allowed to import any module
 
 8. Simple delete by key
-Write a function that deletes a key in a dictionary.
+	- [7-update_dictionary.py](https://github.com/Callistus25/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/8-simple_delete.py)Write a function that deletes a key in a dictionary.
 
-Prototype: def simple_delete(a_dictionary, key=""):
-key argument will be always a string
-If a key doesn’t exist, the dictionary won’t change
-You are not allowed to import any module
+	- Prototype: def simple_delete(a_dictionary, key=""):
+	- key argument will be always a string
+	- If a key doesn’t exist, the dictionary won’t change
+	- You are not allowed to import any module
 
 9. Multiply by 2
 Write a function that returns a new dictionary with all values multiplied by 2
