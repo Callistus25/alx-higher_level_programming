@@ -55,14 +55,14 @@
 	- You are not allowed to import any module
 
 7. Update dictionary
-Write a function that replaces or adds key/value in a dictionary.
+	- [7-update_dictionary.py](https://github.com/Callistus25/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/7-update_dictionary.py)Write a function that replaces or adds key/value in a dictionary.
 
-Prototype: def update_dictionary(a_dictionary, key, value):
-key argument will be always a string
-value argument will be any type
-If a key exists in the dictionary, the value will be replaced
-If a key doesn’t exist in the dictionary, it will be created
-You are not allowed to import any module
+	- Prototype: def update_dictionary(a_dictionary, key, value):
+	- key argument will be always a string
+	- value argument will be any type
+	- If a key exists in the dictionary, the value will be replaced
+	- If a key doesn’t exist in the dictionary, it will be created
+	- You are not allowed to import any module
 
 8. Simple delete by key
 Write a function that deletes a key in a dictionary.
