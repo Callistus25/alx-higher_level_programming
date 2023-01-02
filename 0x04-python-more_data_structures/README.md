@@ -45,14 +45,14 @@
 
 6. Print sorted dictionary
 
-Write a function that prints a dictionary by ordered keys.
+	- [6-print_sorted_dictionary.py](https://github.com/Callistus25/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/6-print_sorted_dictionary.py)Write a function that prints a dictionary by ordered keys.
 
-Prototype: def print_sorted_dictionary(a_dictionary):
-You can assume that all keys are strings
-Keys should be sorted by alphabetic order
-Only sort keys of the first level (don’t sort keys of a dictionary inside the main dictionary)
-Dictionary values can have any type
-You are not allowed to import any module
+	- Prototype: def print_sorted_dictionary(a_dictionary):
+	- You can assume that all keys are strings
+	- Keys should be sorted by alphabetic order
+	- Only sort keys of the first level (don’t sort keys of a dictionary inside the main dictionary)
+	- Dictionary values can have any type
+	- You are not allowed to import any module
 
 7. Update dictionary
 Write a function that replaces or adds key/value in a dictionary.
