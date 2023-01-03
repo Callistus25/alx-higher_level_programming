@@ -82,16 +82,16 @@
 
 10. Best score
 
-Write a function that returns a key with the biggest integer value.
+	- [10-best_score.py](https://github.com/Callistus25/alx-higher_level_programming/blob/master/0x04-python-more_data_structures/10-best_score.py)Write a function that returns a key with the biggest integer value.
 
-Prototype: def best_score(a_dictionary):
-You can assume that all values are only integers
-If no score found, return None
-You can assume all students have a different score
-You are not allowed to import any module
+	- Prototype:` def best_score(a_dictionary):`
+	- You can assume that all values are only integers
+	- If no score found, return None
+	- You can assume all students have a different score
+	- You are not allowed to import any module
 
 11. Multiply by using map
-Write a function that returns a list with all values multiplied by a number without using any loops.
+	- Write a function that returns a list with all values multiplied by a number without using any loops.
 
 Prototype: def multiply_list_map(my_list=[], number=0):
 Returns a new list:
