@@ -1,0 +1,53 @@
+The ``5-text_indentation`` module
+=================================
+
+Using ``5-text_indentation``
+-------------------
+
+First import
+``text_indentation`` from the ``5-text_indentation`` module:
+
+	>>> text_indentation = __import__('5-text_indentation').text_indentation
+
+Normal cases:
+-------------
+	>>> text_indentation("Hola. como esta? Bien: y tu? dam")
+	Hola.
+	<BLANKLINE>
+	como esta?
+	<BLANKLINE>
+	Bien:
+	<BLANKLINE>
+	y tu?
+	<BLANKLINE>
+	dam
+
+	>>> text = "?:."
+	>>> text_indentation(text)
+	?
+	<BLANKLINE>
+	:
+	<BLANKLINE>
+	.
+	<BLANKLINE>
+
+	>>> text = ".?:Dam"
+	>>> text_indentation(text)
+	.
+	<BLANKLINE>
+	?
+	<BLANKLINE>
+	:
+	<BLANKLINE>
+	Dam
+
+Error cases:
+------------
+
+	>>> text_indentation()
+	Traceback (most recent call last):
+	TypeError: text_indentation() missing 1 required positional argument: 'text'
+
+	>>> text_indentation(1234)
+	Traceback (most recent call last):
+	TypeError: text must be a string
