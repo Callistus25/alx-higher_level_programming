@@ -20,20 +20,23 @@ Returns a new matrix representing the division of all elements of matrix by div.
 
 2. Say my name
 
-3-say_my_name.py: Python function that prints a name in the format My name is <first_name> <last_name>.
-If either of first_name or last_name is not a str, a TypeError is raised with the message first_name must be a string or last_name must be a string.
+	- [3-say_my_name.py](https://github.com/Callistus25/alx-higher_level_programming/blob/master/0x07-python-test_driven_development/3-say_my_name.py): Python function that prints a name in the format My name is <first_name> <last_name>.
+	- If either of first_name or last_name is not a str, a TypeError is raised with the message first_name must be a string or last_name must be a string.
+
 3. Print square
 
-4-print_square.py: Python function that prints a square using the # character.
-The paramter size represents the height/width of the square.
-If size is not an int, a TypeError is raised with the message, size must be an integer.
-If size is less than 0, a ValueError is raised with the message size must be >= 0.
+	- [4-print_square.py](https://github.com/Callistus25/alx-higher_level_programming/blob/master/0x07-python-test_driven_development/4-print_square.py): Python function that prints a square using the # character.
+	- The parameter size represents the height/width of the square.
+	- If size is not an `int`, a `TypeError` is raised with the message, `size must be an integer`.
+	- If size is less than 0, a `ValueError` is raised with the message size must be >= 0.
+
 4. Text indentation
 
-5-text_indentation.py: Python function that prints text with indentation.
-Two new lines are printed after any ., ?, or : character.
-If text is not a str, a TypeError is raised with the message text must be a string.
-No spaces are printed at the beginning or end of each printed line.
+	- [5-text_indentation.py](https://github.com/Callistus25/alx-higher_level_programming/blob/master/0x07-python-test_driven_development/5-text_indentation.py): Python function that prints text with indentation.
+	- Two new lines are printed after any ., ?, or : character.
+	- If text is not a str, a TypeError is raised with the message text must be a string.
+	- No spaces are printed at the beginning or end of each printed line.
+
 5. Max integer - Unittest
 
 tests/6-max_integer_test.py: Python class/script that runs unittests for the function def max_integer(list=[]): (provided by Holberton School).
