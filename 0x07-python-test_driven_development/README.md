@@ -4,18 +4,20 @@
 
 0. Integers addition
 
-0-add_integer.py: Python function that returns the integer addition of two numbers.
-If either of a or b is not an int or float, a TypeError is raised with the message a must be an integer or b must be an integer.
-If either of a or b is a float, it is casted to an int before addition.
+	- [0-add_integer.py](https://github.com/Callistus25/alx-higher_level_programming/blob/master/0x07-python-test_driven_development/0-add_integer.py): Python function that returns the integer addition of two numbers.
+	- If either of a or b is not an int or float, a TypeError is raised with the message a must be an integer or b must be an integer.
+	- If either of a or b is a float, it is casted to an int before addition.
+
 1. Divide a matrix
 
-2-matrix_divided.py: Python function that divides all elements of a matrix by a common divisor.
+	- [2-matrix_divided.py](https://github.com/Callistus25/alx-higher_level_programming/blob/master/0x07-python-test_driven_development/2-matrix_divided.py): Python function that divides all elements of a matrix by a common divisor.
 Returns a new matrix representing the division of all elements of matrix by div.
-Quotients are rounded to two decimal places.
-If matrix is not a list of lists of ints or floats, a TypeError is raised with the message matrix must be a matrix (list of lists) of integers/floats.
-If matrix contains rows of different lengths, a TypeError is raised with the message Each row of the matrix must have the same size.
-If the divisor div is not an int or float, a TypeError is raised with the message div must be a number.
-If div is 0, a ZeroDivisionError is raised with the message division by zero.
+	- Quotients are rounded to two decimal places.
+	- If matrix is not a list of lists of ints or floats, a TypeError is raised with the message matrix must be a matrix (list of lists) of integers/floats.
+	- If matrix contains rows of different lengths, a TypeError is raised with the message Each row of the matrix must have the same size.
+	- If the divisor div is not an int or float, a TypeError is raised with the message div must be a number.
+	- If div is 0, a ZeroDivisionError is raised with the message division by zero.
+
 2. Say my name
 
 3-say_my_name.py: Python function that prints a name in the format My name is <first_name> <last_name>.
