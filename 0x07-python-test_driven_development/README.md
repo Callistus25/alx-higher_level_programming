@@ -39,17 +39,19 @@ Returns a new matrix representing the division of all elements of matrix by div.
 
 5. Max integer - Unittest
 
-tests/6-max_integer_test.py: Python class/script that runs unittests for the function def max_integer(list=[]): (provided by Holberton School).
+	- [tests/6-max_integer_test.py](https://github.com/Callistus25/alx-higher_level_programming/blob/master/0x07-python-test_driven_development/tests/6-max_integer_test.py): Python class/script that runs unittests for the function def max_integer(list=[]):
+
 6. Matrix multiplication
 
-100-matrix_mul.py: Python function that multiplies two matrices.
-Returns a new matrix representing the multiplication of m_a by m_b.
-If either of m_a or m_b is empty (ie. == [] or == [[]]), a ValueError is raised with the message m_a can't be empty or m_b can't be empty.
-If either of m_a or m_b is not a list, a TypeError is raised with the message m_a must be a list or m_b must be a list.
-If either of m_a or m_b is not a list of lists, a TypeError is raised with the message m_a must be a list of lists or m_b must be a list of lists.
-If either of m_a or m_b is not a list of lists of ints or floats, a TypeError is raised with the message m_a should contain only integers or floats or m_b should contain only integers or floats.
-If either of m_a or m_b contains rows of different lengths, a TypeError is raised with the message each row of m_a must should be of the same size or each row of m_b must should be of the same size.
-If m_a and m_b cannot be multiplied (ie. row size of m_a does not match column size of m_b), a ValueError is raised with the message m_a and m_b can't be multiplied.
+	- [100-matrix_mul.py](https://github.com/Callistus25/alx-higher_level_programming/blob/master/0x07-python-test_driven_development/100-matrix_mul.py): Python function that multiplies two matrices.
+Returns a new matrix representing the multiplication of `m_a` by `m_b`.
+	- If either of `m_a` or `m_b` is empty (ie. == [] or == [[]]), a ValueError is raised with the message `m_a` can't be empty or `m_b` can't be empty.
+	- If either of m_a or m_b is not a list, a TypeError is raised with the message m_a must be a list or m_b must be a list.
+	- If either of m_a or m_b is not a list of lists, a TypeError is raised with the message m_a must be a list of lists or m_b must be a list of lists.
+	- If either of m_a or m_b is not a list of lists of ints or floats, a TypeError is raised with the message m_a should contain only integers or floats or m_b should contain only integers or floats.
+	- If either of m_a or m_b contains rows of different lengths, a TypeError is raised with the message each row of m_a must should be of the same size or each row of m_b must should be of the same size.
+	- If m_a and m_b cannot be multiplied (ie. row size of m_a does not match column size of m_b), a ValueError is raised with the message m_a and m_b can't be multiplied.
+
 7. Lazy matrix multiplication
 
 101-lazy_matrix_mul.py: Python function that multiplies two matrices using the module NumPy.
